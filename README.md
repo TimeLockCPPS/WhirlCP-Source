@@ -1,4 +1,13 @@
-WhirlCP-Source
-==============
+######################
+#   WhirlCP Source   #
+#   By TimeLockCP    #
+######################
 
-A new source coded by TimeLockCPPS. It is designed to be a simple CPPS Source. :)
+
+To Do List || Made from scratch
+===============================
+
+- Accept connections from user(s) [ ]
+- Make some simple commands [ ]
+- Patch common exploits [ ]
+- Functioning Login and Server [ ]
